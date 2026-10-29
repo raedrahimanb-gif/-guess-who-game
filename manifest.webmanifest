@@ -1,0 +1,11 @@
+{
+  "name": "Guess Who? Custom 3D",
+  "short_name": "Guess Who",
+  "description": "A customizable local two-player Guess Who game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131c",
+  "theme_color": "#111827",
+  "icons": []
+}
